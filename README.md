@@ -64,9 +64,7 @@ BookShelf 書籍レビューアプリ
       },  
       plugins: [forms],  
   };
-- 6. 本プロジェクトのresourcesファイルを coachtech-prepared-file/Preparedblade-mockcase-BookShelf リポジトリの Basicブランチ のresourcesファイルと入れ替え  
-  
-- 7. Vite開発サーバーの起動  
+- 6. Vite開発サーバーの起動  
   sail npm run dev  
 ### 5. phpMyAdminの追加
 - compose.yaml を開き、mysql サービスの後に以下の設定を追加してください。  
@@ -104,3 +102,8 @@ BookShelf 書籍レビューアプリ
   config/app.php の locale を ja にし、lang/ja/ にメッセージファイルを手動配置して行います。  
   laravel-lang/lang などの laravel-lang/* 系パッケージ（composer require laravel-lang/...）は導入しないでください。  
   同系パッケージは 2026年5月のサプライチェーン攻撃でマルウェア配布に悪用された経緯があります。
+## 使用技術
+## 作成者
+- 畠山弾
+## APIエンドポイント一覧
+## 開発環境URL
