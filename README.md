@@ -103,7 +103,7 @@ BookShelf 書籍レビューアプリ
   laravel-lang/lang などの laravel-lang/* 系パッケージ（composer require laravel-lang/...）は導入しないでください。  
   同系パッケージは 2026年5月のサプライチェーン攻撃でマルウェア配布に悪用された経緯があります。
 ## 使用技術
-## 作成者
-- 畠山弾
+## 作成者  
+畠山弾
 ## APIエンドポイント一覧
 ## 開発環境URL
